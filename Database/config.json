@@ -1,0 +1,43 @@
+{
+    "Prefix": "/*/",
+    "Status": "/help | Statuses",
+
+    "Owners": [
+        825666529509113898
+    ],
+
+    "Beta_Slash_Server": [
+        884906050279583764,
+        873202724546707486,
+        886331449400262696,
+        869564716157128754
+    ],
+
+    "Emoji_Server": 884906050279583764,
+    "Support_Server": "https://discord.gg/ZhxmKhDqmx",
+    "Status_Tracker_Invite": "https://discord.com/oauth2/authorize?client_id=884867556165435393&permissions=805694464&redirect_uri=https%3A%2F%2Fdiscord.gg%2FZhxmKhDqmx&response_type=code&scope=bot%20applications.commands%20identify",
+    "Documentation": "https://fast-and-curious.gitbook.io/status-tracker/",
+
+    "Logging": {
+        "Guilds": "https://discord.com/api/webhooks/886996428864512020/35fJVbX9bJs6DDQurIybEJdICsB4ah2RINI3IDUua7ebQO8SCh9wWwXuNAwqFoO5xDvu"
+    },
+
+    "Emojis": {
+        "Good_Emoji": "<:Yes:886389505987330089>",
+        "Bad_Emoji": "<:No:886389579651907664>",
+        "Stem_Emoji": 885122699272273930,
+        "StemOver_Emoji": 885121953105604638,
+        "Add_Emoji": 885133025338339348,
+        "Cancel_Emoji": 885133024965058581,
+        "Remove_Emoji": 885180759676166174,
+        "News_Emoji": 885555455814930453,
+        "Support_Emoji": 886937785427169341,
+        "Bot_Emoji": 887785395926999081
+    },
+
+    "Emoji_links": {
+        "Good_Emoji_link": "https://images-ext-2.discordapp.net/external/amX8oBgu3H7LyJkCL0Zgr007reWKqnVqbtSEzCMmqzg/https/media.discordapp.net/attachments/737046647476846673/825811629622951936/tick.png",
+        "Bad_Emoji_link": "https://cdn.discordapp.com/attachments/882220048914202665/882688799711309834/cancel.png",
+        "Giveaway_Emoji_link": "https://cdn.discordapp.com/emojis/882370624868200529.gif?v=1"       
+    }
+}
