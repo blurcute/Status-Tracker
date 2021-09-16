@@ -24,7 +24,7 @@ load_dotenv()
 # Make the Client.
 Client = commands.Bot(command_prefix=commands.when_mentioned_or(Config["Prefix"]), intents=discord.Intents.all(), case_insensitive=True, strip_after_prefix=True, owner_ids=Config["Owners"])
 Client.remove_command('help')
-Client.connection_url = os.getenv("MONGO_TOKEN")
+Client.connection_url = "mongodb+srv://GiveawayUser:Giveaway2006@giveaways.kwjkn.mongodb.net/Giveaways?retryWrites=true&w=majority"
 Slash = SlashCommand(Client, sync_commands=True, sync_on_cog_reload=True)
 
 # Turns on all the files.
