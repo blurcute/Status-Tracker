@@ -122,4 +122,4 @@ async def Slash_error(ctx, error):
     await Utilities.Command_Error(Client, ctx, commands, error)
 
 # Turns on the Client.
-Client.run(os.getenv("DISCORD_TOKEN"))
+Client.run("ODg0ODY3NTU2MTY1NDM1Mzkz.YTevIQ.B32uw4XMoy4kveIs5AKVjr-GDA8")
