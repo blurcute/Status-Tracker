@@ -10,6 +10,7 @@ Status Tracker is exactly what it says. As a result of having a certain status, 
 - - - - - - | - - - - - - - - - - - - - - |
  Help       |  Helpful information        |   
  Stats      |  Bot information            |
+ Ping       |  Check Latency              |
  Checklist  |  Check's bots permissions   |
  Check-all  |  Check's everyone status    |
  Server     |  Configuration              |
@@ -22,8 +23,16 @@ print("Commands" + "https://status-tracker.gitbook.io/status-tracker/dashboard/c
 print("FAQ" + "https://status-tracker.gitbook.io/status-tracker/dashboard/faq")
 ```
 
-#### Setup
+#### Supports
 
-[ x ] MongoDB
-[ x ] Hosting 
-[ x ] Create a bot
+- [x] MongoDB
+- [x] Slash commands
+- [x] Dropdown Menus
+- [x] Buttons
+
+#### Tasks
+I plan to make this script better, it's been nearly a year now and I learnt a lot of new things and a lot of new discord features have come out!
+
+- [] User friendly
+- [] Easy setup
+- [] Re-code
