@@ -33,6 +33,6 @@ print("FAQ" + "https://status-tracker.gitbook.io/status-tracker/dashboard/faq")
 #### Tasks
 I plan to make this script better, it's been nearly a year now and I learnt a lot of new things and a lot of new discord features have come out!
 
-- [] User friendly
-- [] Easy setup
-- [] Re-code
+- [ ] User friendly
+- [ ] Easy setup
+- [ ] Re-code
