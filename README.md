@@ -9,4 +9,6 @@ Status Tracker is exactly what it says. As a result of having a certain status, 
  Name   | Description                 |
 - - - - | - - - - - - - - - - - - - - |
  Help   |  Helpful information        |   
+ Stats  |  Bot information            |
+ Check  |  Check's bots permissions   |
 ```
