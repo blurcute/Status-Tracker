@@ -6,9 +6,24 @@ Status Tracker is exactly what it says. As a result of having a certain status, 
 #### Commands
 
 ```
- Name   | Description                 |
-- - - - | - - - - - - - - - - - - - - |
- Help   |  Helpful information        |   
- Stats  |  Bot information            |
- Check  |  Check's bots permissions   |
+ Name       | Description                 |
+- - - - - - | - - - - - - - - - - - - - - |
+ Help       |  Helpful information        |   
+ Stats      |  Bot information            |
+ Checklist  |  Check's bots permissions   |
+ Check-all  |  Check's everyone status    |
+ Server     |  Configuration              |
 ```
+
+#### Wiki 
+
+```py
+print("Commands" + "https://status-tracker.gitbook.io/status-tracker/dashboard/commands")
+print("FAQ" + "https://status-tracker.gitbook.io/status-tracker/dashboard/faq")
+```
+
+#### Setup
+
+[ x ] MongoDB
+[ x ] Hosting 
+[ x ] Create a bot
